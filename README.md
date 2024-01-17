@@ -1,2 +1,2 @@
 # Project-Yoga-Studio-Recruitment
-This project is to develop a new system that aims to help hiring at yoga studios. This system is a recruitment system that only relies on one human resource with a manual screen system so business analysis is needed to solve problems that occur. 
+This project is to develop a new system that aims to help hiring at yoga studios. This system is a recruitment system that only relies on one human resource with a manual screen system so business analysis is needed to solve problems that occur. Therefore, there is a hiring system that helps human resources so they don't have to carry out manual screening, but use online exams to determine the qualifications of each applicant. 
